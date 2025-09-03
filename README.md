@@ -26,6 +26,6 @@ This repository demonstrates the **Builder design pattern** with a real-world ex
 
 📄 Documentation & Downloads
 
-Full guide (docx): Download here
+Full guide (docx): https://drive.google.com/file/d/10sUVzjbPJxLHeU8ayJ8DXkQvtv81wzNr/view?usp=sharing
 
 
